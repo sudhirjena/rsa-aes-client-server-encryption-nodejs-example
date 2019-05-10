@@ -8,8 +8,6 @@ Nodejs express framework and websocket library socket.io infrastructure for best
 Client encryption side is written with browser javascript Web CryptoApi.
 Server side is written with Nodejs crypto and Nodejs node-rsa
 
-[READ DETAILED INFO IN ARTICLE](https://medium.com/@weblab_tech/encrypted-client-server-communication-protection-of-privacy-and-integrity-with-aes-and-rsa-in-c7b180fe614e#.6pvs68jnn)
-
 Requirements
 ------------
 nodejs 6 and >
